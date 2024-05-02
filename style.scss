@@ -74,8 +74,13 @@ body {
 			&:focus {
 				outline: 2px solid var(--blue);
 			}
+
+			&:invalid {
+				border-color: var(--light-red);
+				outline-color: var(--light-red);
+			}
 		}
-	
+			
 		#error {
 			display: inline-block;
 			font-size: 12px;

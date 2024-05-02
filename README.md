@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/ping-coming-soon-page-gkria17V5w)
+- [Live Site URL](https://akash02ab.github.io/ping-coming-soon/)
 
 ### Built with
 

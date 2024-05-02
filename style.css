@@ -72,6 +72,10 @@ body {
 .container form input[type=email]:focus {
   outline: 2px solid var(--blue);
 }
+.container form input[type=email]:invalid {
+  border-color: var(--light-red);
+  outline-color: var(--light-red);
+}
 .container form #error {
   display: inline-block;
   font-size: 12px;
