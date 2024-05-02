@@ -1,10 +1,10 @@
-# Frontend Mentor - Ping coming soon page solution
+# Ping coming soon page
 
 This is a solution to the [Ping coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da).
 
 ## Table of contents
 
-- [Frontend Mentor - Ping coming soon page solution](#frontend-mentor---ping-coming-soon-page-solution)
+- [Ping coming soon page](#ping-coming-soon-page)
   - [Table of contents](#table-of-contents)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
@@ -27,11 +27,11 @@ Users should be able to:
 
 **Desktop**
 
-![](./screenshot/)
+![](./screenshot/desktop.png)
 
 **Mobile**
 
-![](./screenshot/)
+![](./screenshot/mobile.png)
 
 ### Links
 
